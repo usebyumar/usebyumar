@@ -1,5 +1,5 @@
 # 💫 About Me:
-M Umar Shafique<br><br>Python Developer | Full Stack Developer | Database Manager<br><br>Elevating digital solutions with expertise in Full Stack Development (Django, React.js, Next.js) and Databases (PostgreSQL, MongoDB).<br><br>Education: COMSATS Institute of Information and Technology, Lahore, Punjab, Pakistan<br><br>Portfolio: umar-shafiq-portfolio.netlify.app<br><br>Location: Lahore, Punjab, Pakistan
+Elevating digital solutions with expertise in Full Stack Development (Django, React.js, Next.js) and Databases (PostgreSQL, MongoDB).<br><br>Education: COMSATS Institute of Information and Technology, Lahore, Punjab, Pakistan<br><br>Portfolio: umar-shafiq-portfolio.netlify.app<br><br>Location: Lahore, Punjab, Pakistan
 
 
 ## 🌐 Socials:
