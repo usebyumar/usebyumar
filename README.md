@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=usebyumar&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=usebyumar&theme=apprentice&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usebyumar&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<meta name="google-site-verification" content="Z5RXZDHFiBxnG4XvAn82E7Dc-2EppLNwrKJ0za_L4VM" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
