@@ -1,5 +1,13 @@
 # 💫 About Me:
-Elevating digital solutions with expertise in Full Stack Development (Django, React.js, Next.js) and Databases (PostgreSQL, MongoDB).<br><br>Education: COMSATS Institute of Information and Technology, Lahore, Punjab, Pakistan<br><br>Portfolio: umar-shafiq-portfolio.netlify.app<br><br>Location: Lahore, Punjab, Pakistan
+🚀 Passionate Full Stack Developer delivering robust digital solutions using Django, React.js, and Next.js. Skilled in designing scalable backends and building dynamic frontend experiences.
+📦 Experienced with PostgreSQL, MongoDB, REST APIs, and modern web technologies.
+
+🎓 Education: COMSATS Institute of Information and Technology, Lahore, Pakistan
+🌐 Portfolio: www.umarxdev.me
+📍 Location: Lahore, Punjab, Pakistan
+📬 Contact: umer.shafiq0008@gmail.com
+
+#fullstackdeveloper #django #nextjs #reactjs #postgresql #mongodb #webdeveloper #portfolio #pythondeveloper #backenddeveloper #aiintegration #chatbotdeveloper #gpt3 #automation #usebyumar #umarxdev #umarxdevgithub #umarxdevportfolio #umarshafique #umarshafiqueportfolio
 
 
 ## 🌐 Socials:
