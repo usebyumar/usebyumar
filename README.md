@@ -19,11 +19,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=usebyumar&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=usebyumar&theme=apprentice&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usebyumar&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<!-- Add SEO Meta Tag for Google -->
 <meta name="google-site-verification" content="Z5RXZDHFiBxnG4XvAn82E7Dc-2EppLNwrKJ0za_L4VM" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=usebyumar&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
